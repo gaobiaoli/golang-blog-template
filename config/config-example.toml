@@ -1,0 +1,20 @@
+[viewer]
+    Title = "个人博客"
+    Description = "基于golang原生http库博客-基于模板"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页","/", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = ""
+    Zhihu = ""
+    Avatar = ""
+    UserName = "高彪栗"
+    UserDesc = "同济大学2022级硕士"
+[system]
+    
+    CdnURL = "/resource"
+    QiniuAccessKey = ""
+    QiniuSecretKey = ""
+    bucket=""
+    Valine = true
+    ValineAppid = ""
+    ValineAppkey = ""
+    ValineServerURL = ""

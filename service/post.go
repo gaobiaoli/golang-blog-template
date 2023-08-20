@@ -69,6 +69,5 @@ func SavePost(post *models.Post) {
 	dao.SavePost(post)
 }
 func UpdatePost(post *models.Post) {
-	print("**********************8")
 	dao.UpdatePost(post)
 }

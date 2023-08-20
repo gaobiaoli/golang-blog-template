@@ -1,3 +1,3 @@
 # 基于golang原生库的个人博客
-
-![]("./public\resource\images\preview.png")
+## 预览图
+![预览图](./public\resource\images\preview.png)
